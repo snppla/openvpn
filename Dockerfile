@@ -1,4 +1,4 @@
-from debian:jessie
+from debian
 
 RUN apt-get update
 RUN apt-get -y install openvpn
